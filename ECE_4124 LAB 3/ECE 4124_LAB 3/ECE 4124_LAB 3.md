@@ -1,16 +1,12 @@
-﻿              Heaven’s Light is Our Guide
+﻿Heaven’s Light is Our Guide![](Aspose.Words.1eaba4df-1509-4dd5-9656-372be7d37463.001.png)
 
-     Rajshahi University of Engineering & Technology
-
-
-![](Aspose.Words.1eaba4df-1509-4dd5-9656-372be7d37463.001.png)
+`                       `Rajshahi University of Engineering & Technology 
 
 ![](Aspose.Words.1eaba4df-1509-4dd5-9656-372be7d37463.002.jpeg)
 
+Sessional Course Code: ECE 4124 
 
-**Sessional Course Code**: ECE 4124 
-
-**Course name**: Digital Signal Processing Sessional 
+`   `Course name: Digital Signal Processing Sessional 
 
 **Submitted To:** 
 
@@ -20,27 +16,21 @@ Lecturer, ECE,
 
 RUET                                                                 
 
-` `**Submitted By:**
+` `**Submitted By:** Mahbuba Habib ID: 1810026 Department: ECE 
 
- Mahbuba Habib 
+Experiment No: 03
 
- ID: 1810026 
- 
- Department: ECE 
+Experiment Date: 8/05/23 
 
-**Experiment No**: 03
+Experiment Name: Correlation of 2 signals using function and without using function. 
 
-**Experiment Date**: 8/05/23 
-
-**Experiment Name**: Correlation of 2 signals using function and without using function. 
-
-**Objective**: 
+Objective: 
 
 - Familiar with the correlation concept 
 - Problem solving with & without using function 
 - Realtime implementation and visualization of 2 outputs -Find the X value of highest correlation 
 
-**Theory**: Correlation coefficient is a measure of how well two signals are related to each other in terms of their similarity, alignment, and dependence. It is widely used in digital signal processing (DSP) for various purposes, such as signal detection, estimation, compression, enhancement, and classification. The *correlation* of two functions or signals or waveforms is defined as the measure of similarity between those signals. There are two types of correlations − 
+Theory: Correlation coefficient is a measure of how well two signals are related to each other in terms of their similarity, alignment, and dependence. It is widely used in digital signal processing (DSP) for various purposes, such as signal detection, estimation, compression, enhancement, and classification. The *correlation* of two functions or signals or waveforms is defined as the measure of similarity between those signals. There are two types of correlations − 
 
 - Cross-correlation 
 
@@ -54,9 +44,9 @@ The autocorrelation function is defined as the measure of similarity or coherenc
 
 ![](Aspose.Words.1eaba4df-1509-4dd5-9656-372be7d37463.004.png)
 
-**Required Tools**: MATLAB 2015a. 
+Required Tools: MATLAB 2015a. 
 
-**Code & Output**: 
+Code & Output: 
 
 1\.  Correlation using xcorr function. 
 
@@ -86,9 +76,9 @@ Figure3: Finding the X position of highest correlation.
 
 Figure4: Finding the X position of highest correlation in continuous signal 
 
-**Discussion**: This experiment is mainly focused on the correlation of 2 signals. The code is done in 2 different ways. Both give the same output. Later the position of X value is calculated. 
+Discussion: This experiment is mainly focused on the correlation of 2 signals. The code is done in 2 different ways. Both give the same output. Later the position of X value is calculated. 
 
-**Conclusion**: We tried to find out the correlation of 2 signals. The output resembles our theory. 
+Conclusion: We tried to find out the correlation of 2 signals. The output resembles our theory. 
 
 References: 
 
