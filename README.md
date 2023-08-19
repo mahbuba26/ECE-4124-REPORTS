@@ -1,6 +1,9 @@
 # ECE-4124-LAB-REPORTS
+# Course Name: Digital Signal Processing Sessional
 
- ID 1810026 (*first 5 lab reports*)
+ ## ID 1810026 (*first 5 lab reports*)
+
+
 
  The links of 5 Experiments are :
 
